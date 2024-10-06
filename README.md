@@ -23,19 +23,19 @@ Before running the application, ensure you have the following installed:
 
 1. Clone the repository:
 
-   \`\`\`bash
+   \`\`\`
    git clone https://github.com/CosminB24/pdf-page-extractor.git
    \`\`\`
 
 2. Navigate to the project directory:
 
-   \`\`\`bash
+   \`\`\`console
    cd pdf-page-extractor
    \`\`\`
 
 3. Install dependencies:
 
-   \`\`\`bash
+   \`\`\`console
    pip install -r requirements.txt
    \`\`\`
 
@@ -43,7 +43,7 @@ Before running the application, ensure you have the following installed:
 
 1. Run the Flask server:
 
-   \`\`\`bash
+   \`\`\`console
    python app.py
    \`\`\`
 
