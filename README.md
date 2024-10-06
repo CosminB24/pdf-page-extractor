@@ -59,7 +59,7 @@ To extract pages 1, 2, 5, and 7-9 from a PDF:
 
 1. Start the app by running `python app.py`.
 2. In your browser, upload `example.pdf`.
-3. Enter `1-2,5,7-9` as the page range.
+3. Enter `1-2,5,7-9` (the values have to be separated by comma) as the page range.
 4. Click 'Extract' to download the new PDF.
 
 ---
