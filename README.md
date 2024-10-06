@@ -40,7 +40,7 @@ Before running the application, ensure you have the following installed:
    ```
 
 ## Usage
-
+If you want to run it locally, follow this steps:
 1. Run the Flask server:
 
    ```console
@@ -52,6 +52,8 @@ Before running the application, ensure you have the following installed:
 3. Upload a PDF file and specify the page ranges you'd like to extract (e.g., `1-3,5,7-9`).
 
 4. Download the newly generated PDF with only the specified pages.
+
+If you want to access it more easily, use this link, as long as it is available: [PDF Page Extractor](https://pdf-page-extractor-3cld.onrender.com/)
 
 ## Example
 
